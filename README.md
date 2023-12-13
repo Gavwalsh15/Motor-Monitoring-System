@@ -7,4 +7,5 @@ The motor will automatically shut off if the board is off balance that is set on
 
 
 
-![image](https://github.com/Gavwalsh15/Motor-Monitoring-System/assets/114908190/67c7804f-f818-4a15-a2fe-c15be3ce4b29)
+![image](https://github.com/Gavwalsh15/Motor-Monitoring-System/assets/114908190/0d8cef1c-0738-40a2-a759-35862d4dfd93)
+
